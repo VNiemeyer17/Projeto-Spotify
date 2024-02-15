@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../spotify-react"
+		},
+		{
+			"path": "../../Curso HTML CSS JavaSCP iniciante ao profissional"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso HTML CSS JavaSCP iniciante ao profissional"
+	}
+}
